@@ -68,6 +68,10 @@ src/
 # 📸 Screenshots 
 <img width="1867" height="1041" alt="image" src="https://github.com/user-attachments/assets/78766023-7b85-498e-a740-13f4114f3fa1" />
 
+# Live Demo Link
+https://news-app-fpge.onrender.com
+
+
 # 🙌 Contributing
 Feel free to fork this repo, open issues, and submit PRs.
 
