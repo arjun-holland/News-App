@@ -1,0 +1,2900 @@
+{
+status: "success"
+totalResults: 1626
+results: [
+0: {
+article_id: "8d40899b534da182215b985ed8e6ef5f"
+title: "Senior U.S. senator expects joint weapons production with Taiwan"
+link: "https://www.reuters.com/world/china/senior-us-senator-expects-joint-weapons-production-with-taiwan-..."
+keywords: [
+0: "govact"
+1: "rules:taiwan"
+2: "pbfact"
+3: "dest:pge"
+4: "mtvid"
+5: "wash"
+6: "dest:reulb"
+7: "gen"
+8: "namer"
+9: "dest:csa"
+10: "dest:oustpm"
+11: "dest:seatp"
+12: "dest:z"
+13: "dest:rwsa"
+14: "amers"
+15: "dest:ocatpm"
+16: "emrg"
+17: "dest:rbn"
+18: "def"
+19: "secur"
+20: "package:world-news"
+21: "potus"
+22: "dest:ucdptest"
+23: "cwp"
+24: "easia"
+25: "dest:gns"
+26: "vote"
+27: "mtpix"
+28: "package:us-top-news"
+29: "dest:lby"
+30: "asxpac"
+31: "dip"
+32: "dest:ouswdm"
+33: "dest:afa"
+34: "trd"
+35: "asia"
+36: "dest:g"
+37: "dest:dnp"
+38: "dest:rws"
+39: "dest:rnp"
+40: "gvgvf"
+41: "dest:psc"
+42: "sen"
+43: "vots"
+44: "us"
+45: "tw"
+46: "cn"
+47: "dest:rast"
+48: "pol"
+]
+creator: [
+0: "Reuters"
+]
+description: "U.S. Senator Roger Wicker, chairman of the powerful Senate Armed Services Committee and a strong ad..."
+content: "TAIPEI, Aug 30 (Reuters) - U.S. Senator Roger Wicker, chairman of the powerful Senate Armed Service..."
+pubDate: "2025-08-30 06:44:48"
+pubDateTZ: "UTC"
+image_url: "https://www.reuters.com/resizer/v2/33AUELZWBZLP5F2XA7IMTOTKDU.jpg?auth=ac1d861929ffe3e9a6d3253161c7..."
+video_url: null
+source_id: "reuters_com"
+source_name: "Reuters"
+source_priority: 199
+source_url: "https://www.reuters.com"
+source_icon: "https://n.bytvi.com/reuters_com.png"
+language: "english"
+country: [
+0: "world"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "positive"
+sentiment_stats: {
+positive: 74.2
+neutral: 25.1
+negative: 0.7
+}
+ai_tag: [
+0: "government"
+1: "national security"
+]
+ai_region: [
+0: "taiwan,china,asia"
+1: "united states of america,north america"
+]
+ai_org: [
+0: "senate armed services committee"
+]
+ai_summary: "U.S. Senator Roger Wicker supports potential joint U.S.-Taiwanese weapon production amid ongoing tr..."
+ai_content: "During a recent visit to Taiwan, U.S. Senator Roger Wicker, Chairman of the Senate Armed Services C..."
+duplicate: false
+}
+1: {
+article_id: "9b7a8ac57d8a63908fa1dfe1d7165aa1"
+title: "Senior U.S. senator expects joint weapons production with Taiwan"
+link: "https://ca.news.yahoo.com/senior-u-senator-expects-joint-064345523.html"
+keywords: [
+0: "politics"
+]
+creator: [
+0: "Reuters"
+]
+description: "TAIPEI (Reuters) -U.S. Senator Roger Wicker, chairman of the powerful Senate Armed Services Committ..."
+content: "By Ben Blanchard TAIPEI (Reuters) -U.S. Senator Roger Wicker, chairman of the powerful Senate Armed..."
+pubDate: "2025-08-30 06:43:45"
+pubDateTZ: "UTC"
+image_url: "https://s.yimg.com/ny/api/res/1.2/X_6d1yCcQxeXgJtXufiT1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjk7..."
+video_url: null
+source_id: "yahoo"
+source_name: "Yahoo! News"
+source_priority: 17
+source_url: "https://news.yahoo.com"
+source_icon: "https://n.bytvi.com/yahoo.png"
+language: "english"
+country: [
+0: "canada"
+]
+category: [
+0: "sports"
+]
+sentiment: "positive"
+sentiment_stats: {
+positive: 87.76
+neutral: 11.71
+negative: 0.53
+}
+ai_tag: [
+0: "government"
+1: "national security"
+]
+ai_region: [
+0: "taipei,taiwan,asia"
+1: "taiwan,asia"
+2: "taipei,taipei,taiwan,asia"
+3: "united states of america,north america"
+]
+ai_org: [
+0: "senate armed services committee"
+]
+ai_summary: "Senator Roger Wicker supports potential joint U.S.-Taiwanese weapons production amid ongoing tensio..."
+ai_content: "In a significant development regarding defense collaboration, U.S. Senator Roger Wicker, chair of t..."
+duplicate: true
+}
+2: {
+article_id: "9f6c5a7ab4e09a0c8dc9a4d1a9eb6d4c"
+title: "Gold surges to Rs 1,04,950 amid tariff tensions, safe-haven demand. Should you invest before Diwali..."
+link: "https://www.businesstoday.in/personal-finance/investment/story/gold-surges-to-rs-104950-amid-tariff..."
+keywords: [
+0: "silver hits lifetime high"
+1: "22-carat gold rate"
+2: "gold price india"
+3: "gold rate today"
+4: "gold price surge"
+5: "silver price india"
+6: "precious metals india"
+7: "bullion market india"
+8: "gold etf inflows"
+9: "gold and silver rally"
+10: "safe-haven gold"
+11: "gold trading tips"
+12: "gold investing"
+13: "silver trading india"
+14: "mcx gold rates"
+15: "24-carat gold rate"
+16: "international gold prices"
+17: "gold market trends"
+18: "festive season gold demand"
+19: "india gold market"
+]
+creator: [
+0: "business_today"
+]
+description: "Gold and silver prices surged in India and global markets, with gold hitting ₹1,04,950 per 10 grams..."
+content: "Gold climbed to a three-week high and silver to a five-week high in global markets, with India witn..."
+pubDate: "2025-08-30 06:35:07"
+pubDateTZ: "UTC"
+image_url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202508/68b29b76e13fc-this-year--gold-pr..."
+video_url: null
+source_id: "businesstoday"
+source_name: "Business News India"
+source_priority: 5073
+source_url: "https://www.businesstoday.in"
+source_icon: "https://n.bytvi.com/businesstoday.jpg"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "positive"
+sentiment_stats: {
+positive: 96.78
+neutral: 1.2
+negative: 2.02
+}
+ai_tag: [
+0: "economy"
+]
+ai_region: [
+0: "india,asia"
+]
+ai_org: null
+ai_summary: "Gold and silver prices soared globally as investors sought safety amidst rising tariffs between the..."
+ai_content: "In recent days, precious metals such as gold and silver experienced substantial increases across in..."
+duplicate: false
+}
+3: {
+article_id: "0bc20af1bbf309931c139fcb86b6980e"
+title: "US appeals court rules Trump's global tariffs are unconstitutional"
+link: "https://ca.news.yahoo.com/us-appeals-court-rules-trumps-063105291.html"
+keywords: [
+0: "politics"
+]
+creator: [
+0: "Euronews"
+]
+description: "The decision leaves the tariffs Trump slapped on almost all US trading partners in place for now un..."
+content: "A US federal appeals court ruled Friday that President Donald Trump had no legal right to impose sw..."
+pubDate: "2025-08-30 06:31:05"
+pubDateTZ: "UTC"
+image_url: "https://s.yimg.com/ny/api/res/1.2/EKm8zyS_O3QCnqdKSuYpRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7..."
+video_url: null
+source_id: "yahoo"
+source_name: "Yahoo! News"
+source_priority: 17
+source_url: "https://news.yahoo.com"
+source_icon: "https://n.bytvi.com/yahoo.png"
+language: "english"
+country: [
+0: "canada"
+]
+category: [
+0: "sports"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.1
+neutral: 0.14
+negative: 99.76
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: [
+0: "trump"
+]
+ai_summary: "A US federal appeals court has found President Trump's use of broad tariffs on nearly all US tradin..."
+ai_content: "In a significant judicial setback for President Donald Trump, the US Court of Appeals for the Feder..."
+duplicate: true
+}
+4: {
+article_id: "562b38c7575f12f6f01f7337e396f4f6"
+title: "India suspends US-bound mails bookings amid tariff war: ‘Includes letters, gifts value up to $100’"
+link: "https://www.livemint.com/news/india/india-suspends-us-bound-mails-bookings-amid-tariff-war-includes..."
+keywords: null
+creator: [
+0: "Akriti Anand"
+]
+description: "India suspends US-bound mails bookings amid tariff war: ‘Includes letters, gifts value up to $100’"
+content: "In view of the inability of carriers to transport US-bound mail, and undefined regulatory mechanism..."
+pubDate: "2025-08-30 06:28:27"
+pubDateTZ: "UTC"
+image_url: "https://www.livemint.com/lm-img/static/1yr/newmintdefault-120.png"
+video_url: null
+source_id: "livemint"
+source_name: "Mint"
+source_priority: 7134
+source_url: "https://www.livemint.com"
+source_icon: "https://n.bytvi.com/livemint.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.42
+neutral: 75.72
+negative: 23.86
+}
+ai_tag: [
+0: "supply chain and logistics"
+]
+ai_region: [
+0: "india,asia"
+]
+ai_org: null
+ai_summary: "India suspends US-bound mail bookings due to a tariff war; includes letters, gifts up to $100."
+ai_content: "In a significant move amidst escalating trade tensions between India and the United States, Indian ..."
+duplicate: false
+}
+5: {
+article_id: "bc369afd332701367dae2ffa89f343ab"
+title: "US appeals court rules Trump's global tariffs are unconstitutional"
+link: "https://www.euronews.com/2025/08/30/us-appeals-court-rules-trumps-global-tariffs-are-unconstitution..."
+keywords: [
+0: "court"
+1: "united states"
+2: "trade war"
+3: "trump tariffs"
+4: "donald trump"
+]
+creator: [
+0: "Jerry Fisayo-Bambi"
+]
+description: "The decision leaves the tariffs Trump slapped on almost all US trading partners in place for now un..."
+content: "The court’s decision leaves the tariffs slapped in April on almost all US trading partners and the ..."
+pubDate: "2025-08-30 06:15:29"
+pubDateTZ: "UTC"
+image_url: "https://images.euronews.com/articles/stories/09/44/27/57/1536x864_cmsv2_3c1b2efe-c56a-57be-9774-3f5..."
+video_url: null
+source_id: "euronews"
+source_name: "Euronews"
+source_priority: 3311
+source_url: "https://www.euronews.com"
+source_icon: "https://n.bytvi.com/euronews.png"
+language: "english"
+country: [
+0: "montenegro"
+1: "bosnia and herzegovina"
+2: "cyprus"
+3: "united kingdom"
+4: "albania"
+5: "malta"
+6: "ireland"
+7: "macedonia"
+8: "spain"
+9: "moldova"
+10: "france"
+11: "germany"
+12: "san marino"
+13: "switzerland"
+14: "poland"
+15: "netherland"
+16: "hungary"
+17: "italy"
+18: "belgium"
+19: "austria"
+20: "greece"
+21: "russia"
+22: "sweden"
+23: "norway"
+24: "portugal"
+25: "romania"
+26: "serbia"
+27: "bulgaria"
+28: "czech republic"
+29: "latvia"
+30: "lithuania"
+31: "slovakia"
+32: "slovenia"
+33: "ukraine"
+34: "andorra"
+35: "kosovo"
+36: "liechtenstein"
+37: "finland"
+38: "monaco"
+39: "vatican"
+40: "belarus"
+41: "denmark"
+42: "estonia"
+43: "luxembourg"
+44: "croatia"
+45: "iceland"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.1
+neutral: 0.14
+negative: 99.76
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: [
+0: "trump"
+]
+ai_summary: "A US federal appeals court has found that President Trump's imposition of broad tariffs was beyond ..."
+ai_content: "In a significant development within the realm of international trade law, the US Court of Appeals f..."
+duplicate: false
+}
+6: {
+article_id: "79563075dae0eb0e263aba89a0bb3aea"
+title: "Modi-Putin Meeting On The Sidelines Of SCO Summit Prepares Ground for Major India Visit in December"
+link: "https://timesofindia.indiatimes.com/videos/news/modi-putin-meeting-on-the-sidelines-of-sco-summit-p..."
+keywords: [
+0: "news videos"
+]
+creator: [
+0: "TIMESOFINDIA.COM"
+]
+description: "Vladimir Putin and Narendra Modi are set to meet in China at the SCO Summit, where preparations for..."
+content: "Vladimir Putin and Narendra Modi are set to meet in China at the SCO Summit, where preparations for..."
+pubDate: "2025-08-30 06:01:38"
+pubDateTZ: "UTC"
+image_url: "https://static.toiimg.com/photo/123596741.cms"
+video_url: null
+source_id: "toi"
+source_name: "The Times Of India"
+source_priority: 2178
+source_url: "https://timesofindia.indiatimes.com"
+source_icon: "https://n.bytvi.com/toi.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.84
+neutral: 99
+negative: 0.16
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "china,asia"
+]
+ai_org: null
+ai_summary: "Vladimir Putin and Narendra Modi plan to discuss their countries' future relations ahead of Putin's..."
+ai_content: "In what signals a potential shift in regional dynamics, Indian Prime Minister Narendra Modi and Rus..."
+duplicate: false
+}
+7: {
+article_id: "5f5e1197d81ffcb35f45e29defe29f44"
+title: "Health 360: Morning heart attack risk and B-town's anti-ageing secrets"
+link: "https://www.indiatoday.in/health/health-360/video/health-360-morning-heart-attack-risk-and-b-towns-..."
+keywords: [
+0: "dash diet"
+1: "heart attack"
+2: "chronic stress"
+3: "dr jewel gamadia"
+4: "hrt"
+5: "india today"
+6: "hormonal imbalance"
+7: "fitness supplements"
+8: "sleep deprivation"
+9: "anti-ageing"
+10: "weight loss"
+11: "hormone replacement therapy"
+12: "celebrity health"
+13: "health360"
+14: "sneha mordani"
+15: "morning heart attack"
+16: "perimenopause"
+17: "western acupuncture"
+]
+creator: [
+0: "India Today"
+]
+description: "Health 360: Morning heart attack risk and B-town's anti-ageing secrets"
+content: "This episode of Health360 explores the hidden factors sabotaging weight loss, including lack of sle..."
+pubDate: "2025-08-30 05:56:56"
+pubDateTZ: "UTC"
+image_url: "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202508/health360hiddenreasonsyourweightwon..."
+video_url: null
+source_id: "indiatoday"
+source_name: "India Today"
+source_priority: 2885
+source_url: "https://www.indiatoday.in"
+source_icon: "https://n.bytvi.com/indiatoday.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "health"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.27
+neutral: 93.61
+negative: 6.12
+}
+ai_tag: [
+0: "health and fitness"
+]
+ai_region: null
+ai_org: null
+ai_summary: "The 'Health 360' podcast examines various health issues, including increased morning heart attack r..."
+ai_content: "In a comprehensive exploration of modern health challenges, the latest episode of 'Health 360' shed..."
+duplicate: false
+}
+8: {
+article_id: "f45e96781935ec3fdfc6377cbb49c930"
+title: "‘More The Pressure On India, Stronger It Will Emerge’: Rajnath Echoes PM's Vow In Message To US"
+link: "https://www.news18.com/india/india-us-tensions-rajnath-singh-more-the-pressure-on-delhi-stronger-it..."
+keywords: [
+0: "latest"
+]
+creator: [
+0: "Ashesh Mallick"
+]
+description: "Rajnath Singh echoed PM Modi's vow that India will emerge stronger "no matter how much pressure is ..."
+content: "Rajnath Singh echoed PM Modi's vow that India will emerge stronger "no matter how much pressure is ..."
+pubDate: "2025-08-30 05:53:45"
+pubDateTZ: "UTC"
+image_url: "https://images.news18.com/ibnlive/uploads/2025/08/Rajnath-Sing-2025-08-f42135d3a71ada42ae5d9394cb49..."
+video_url: null
+source_id: "news18"
+source_name: "News 18"
+source_priority: 1063
+source_url: "https://www.news18.com"
+source_icon: "https://n.bytvi.com/news18.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 37.46
+neutral: 61.85
+negative: 0.69
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "india,asia"
+1: "united states of america,north america"
+]
+ai_org: [
+0: "rajnath echoes"
+]
+ai_summary: "Defence Minister Rajnath Singh reiterated India's resolve to strengthen despite external pressures,..."
+ai_content: "In a recent address at the NDTV Defence Summit 2025, Defence Minister Rajnath Singh reaffirmed Indi..."
+duplicate: false
+}
+9: {
+article_id: "ad4974966f67d8fad886db1988bc29c3"
+title: "India prevented global crisis, stabilised markets by continuing Russian oil purchases"
+link: "https://www.businesstoday.in/india/story/india-prevented-a-global-crisis-if-india-stopped-buying-cr..."
+keywords: [
+0: "india refinery exports"
+1: "india fuel prices"
+2: "reliance refinery"
+3: "russia oil price cap"
+4: "india oil trade"
+5: "india oil imports"
+6: "russian crude purchases"
+7: "eu oil regulations"
+8: "peter navarro india"
+9: "india defense cooperation"
+10: "global inflation india"
+11: "india oil savings"
+12: "india market stabilization"
+13: "india-japan relations"
+14: "us tariffs india"
+15: "global oil market stability"
+16: "global oil prices"
+17: "india peace efforts ukraine"
+18: "india prevents global crisis"
+19: "international praise india"
+20: "modi ukraine war"
+21: "india russian oil"
+22: "janet yellen india"
+23: "crude prices $200"
+24: "indian refiners"
+25: "india-us trade"
+26: "india energy security"
+27: "g7 price cap"
+28: "india strategic role"
+]
+creator: [
+0: "business_today"
+]
+description: "According to the sources, India’s imports have stabilised global markets and helped keep fuel price..."
+content: "Crude prices worldwide could triple to $200 a barrel, if India stopped buying Russian oil. “India p..."
+pubDate: "2025-08-30 05:42:19"
+pubDateTZ: "UTC"
+image_url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202508/68b28f2787678-pm-narendra-modi-w..."
+video_url: null
+source_id: "businesstoday"
+source_name: "Business News India"
+source_priority: 5073
+source_url: "https://www.businesstoday.in"
+source_icon: "https://n.bytvi.com/businesstoday.jpg"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "positive"
+sentiment_stats: {
+positive: 92.05
+neutral: 7.39
+negative: 0.56
+}
+ai_tag: [
+0: "international trade"
+]
+ai_region: [
+0: "india,asia"
+]
+ai_org: null
+ai_summary: "India's decision to continue purchasing Russian oil during the Ukraine conflict has been credited w..."
+ai_content: "In a significant move amidst geopolitical tensions following the Ukraine war, India has played a pi..."
+duplicate: false
+}
+10: {
+article_id: "d4a73eea2d4699d5a6115894cb7ccbb9"
+title: "Who is Peter Navarro? Meet the Trump advisor who blames New Delhi for Russia-Ukraine war"
+link: "https://timesofindia.indiatimes.com/world/us/who-is-peter-navarro-meet-the-trump-advisor-who-blames..."
+keywords: [
+0: "breaking news"
+1: "peter dinklage"
+2: "world news"
+3: "russia-ukraine"
+4: "top news in us"
+5: "prison break"
+6: "world news today"
+7: "peter parket"
+8: "world news live"
+9: "peter navarro"
+]
+creator: [
+0: "Nirmalya Dutta"
+]
+description: "Like most members of the current Trump administration, the key to understanding Navarro is through ..."
+content: "Peter is a principal character in the Judeo-Christian ethos of the Western world and the accompanyi..."
+pubDate: "2025-08-30 05:30:45"
+pubDateTZ: "UTC"
+image_url: "https://static.toiimg.com/thumb/msid-123596653,width-400,resizemode-4/who-is-peter-navarro.jpg"
+video_url: null
+source_id: "toi"
+source_name: "The Times Of India"
+source_priority: 2178
+source_url: "https://timesofindia.indiatimes.com"
+source_icon: "https://n.bytvi.com/toi.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.11
+neutral: 0.62
+negative: 99.27
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "new delhi,delhi,india,asia"
+1: "russia,europe/asia"
+2: "ukraine,europe"
+]
+ai_org: [
+0: "trump"
+]
+ai_summary: "Peter Navarro, Trump's advisor, controversially claims India's involvement in the Russia-Ukraine co..."
+ai_content: "Peter Navarro, known as one of President Trump's closest advisors, has made headlines with his bold..."
+duplicate: false
+}
+11: {
+article_id: "212a267d1e91c0cc02f06a45af67a7bb"
+title: "Is India Really Funding Putin’s War? Fact-Checking The US Attacks"
+link: "https://www.news18.com/explainers/is-india-really-funding-putins-war-fact-checking-the-us-attacks-w..."
+keywords: [
+0: "latest"
+]
+creator: [
+0: "News18"
+]
+description: "Donald Trump’s trade adviser Peter Navarro has accused India of laundering Russian oil and funding ..."
+content: "Donald Trump’s trade adviser Peter Navarro has accused India of laundering Russian oil and funding ..."
+pubDate: "2025-08-30 05:24:06"
+pubDateTZ: "UTC"
+image_url: "https://images.news18.com/ibnlive/uploads/2025/08/trump-modi-1-2025-08-bebeda5a21a1cde2ade1c53ce29f..."
+video_url: null
+source_id: "news18"
+source_name: "News 18"
+source_priority: 1063
+source_url: "https://www.news18.com"
+source_icon: "https://n.bytvi.com/news18.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.09
+neutral: 0.1
+negative: 99.81
+}
+ai_tag: [
+0: "national security"
+]
+ai_region: [
+0: "india,asia"
+]
+ai_org: null
+ai_summary: "Peter Navarro, Trump's trade adviser, accuses India of financing Putin's war through alleged Russia..."
+ai_content: "Amidst escalating tensions between the United States and Russia due to the ongoing conflict in Ukra..."
+duplicate: false
+}
+12: {
+article_id: "096273f3d1bae5394a1a71598694b2f9"
+title: "‘Leaders see US as big disruptor...country can't be counted on’: Ex-US NSA Jake Sullivan slams Trum..."
+link: "https://www.livemint.com/news/world/leaders-see-us-as-big-disruptor-country-cant-be-counted-on-ex-u..."
+keywords: [
+0: "national security advisor"
+1: "us tariffs"
+2: "trump tariffs"
+3: "india china relations"
+4: "u.s. trade dynamics"
+5: "india-china relations"
+6: "global trade dynamics"
+7: "jake sullivan"
+8: "trump policies"
+]
+creator: [
+0: "Livemint"
+]
+description: "Jake Sullivan criticized Trump's 50% tariffs on India, claiming they damage U.S.-India relations an..."
+content: "Jake Sullivan, who served as National Security Advisor under former US President Joe Biden, sharply..."
+pubDate: "2025-08-30 05:18:18"
+pubDateTZ: "UTC"
+image_url: "https://www.livemint.com/lm-img/img/2025/08/30/1600x900/logo/INDIA-USA--3_1736213430050_17565301278..."
+video_url: null
+source_id: "livemint"
+source_name: "Mint"
+source_priority: 7134
+source_url: "https://www.livemint.com"
+source_icon: "https://n.bytvi.com/livemint.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.11
+neutral: 0.1
+negative: 99.8
+}
+ai_tag: [
+0: "international trade"
+]
+ai_region: [
+0: "india,asia"
+1: "u.s"
+2: "united states of america,north america"
+]
+ai_org: [
+0: "trump"
+]
+ai_summary: "Former National Security Advisor Jake Sullivan criticized President Trump's 50% tariffs on India, a..."
+ai_content: "In a recent interview with The Bulwark, former National Security Advisor Jake Sullivan expressed hi..."
+duplicate: false
+}
+13: {
+article_id: "62e5ce8aa2fac99f8f1f3fb511b8f801"
+title: "भारत के डीजल पर चलता है पूरा यूक्रेन, रूस से तेल खरीदी पर टैरिफ बम फोड़ते समय भूल गए थे ट्रंप?"
+link: "https://www.jagran.com/business/biz-trump-tariffs-ukraine-economy-runs-on-indian-diesel-but-us-targ..."
+keywords: [
+0: "यूक्रेन डीजल खरीदें"
+1: "business news"
+2: "trump tariffs"
+3: "india ukraine"
+4: "ukraine"
+5: "ट्रम्प टैरिफ"
+6: "डोनाल्ड ट्रम्प"
+7: "भारतीय डीजल"
+8: "यूक्रेन"
+9: "ukraine buy diesel"
+10: "donald trump"
+11: "भारत यूक्रेन"
+12: "indian diesel"
+13: "व्यापार समाचार"
+]
+creator: [
+0: "Gyanendra Tiwari"
+]
+description: "अमेरिका ने भारत को निशाने पर ले रखा है। राष्ट्रपति ट्रंप ने भारत पर इसलिए 25 फीसदी (Trump Tariffs) ..."
+content: "अमेरिका ने भारत को निशाने पर ले रखा है। राष्ट्रपति ट्रंप ने भारत पर इसलिए 25 फीसदी (Trump Tariffs) ..."
+pubDate: "2025-08-30 05:16:01"
+pubDateTZ: "UTC"
+image_url: "https://www.jagranimages.com/images/newimg/30082025/30_08_2025-india_ukraine_trump_24029835_m.webp"
+video_url: null
+source_id: "jagran"
+source_name: "Jagran"
+source_priority: 6734
+source_url: "https://www.jagran.com"
+source_icon: "https://n.bytvi.com/jagran.jpg"
+language: "hindi"
+country: [
+0: "india"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.1
+neutral: 99.78
+negative: 0.12
+}
+ai_tag: [
+0: "awards and recognitions"
+]
+ai_region: [
+0: "russia,ohio,united states of america,north america"
+1: "united states of america,north america"
+2: "ukraine,europe"
+3: "india,asia"
+]
+ai_org: null
+ai_summary: null
+ai_content: null
+duplicate: false
+}
+14: {
+article_id: "fa035394927951a9c668d2e197c2460a"
+title: "America’s ‘Birth Dearth’ Matters More Than Any Monthly Jobs Report"
+link: "https://ng.investing.com/analysis/americas-birth-dearth-matters-more-than-any-monthly-jobs-report-2..."
+keywords: null
+creator: [
+0: "Louis Navellier"
+]
+description: "Market Analysis by covering: . Read 's Market Analysis on Investing.com NG."
+content: "While market traders, political pundits, and the media keep over-emphasizing the monthly jobs repor..."
+pubDate: "2025-08-30 05:02:00"
+pubDateTZ: "UTC"
+image_url: "https://d1-invdn-com.investing.com/content/63994e4bf41010d499d90ea9a19122af.jpeg"
+video_url: null
+source_id: "investing_ng"
+source_name: "Investing Nigeria"
+source_priority: 1205
+source_url: "https://ng.investing.com"
+source_icon: "https://n.bytvi.com/investing_ng.png"
+language: "english"
+country: [
+0: "nigeria"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.15
+neutral: 99.74
+negative: 0.11
+}
+ai_tag: [
+0: "financial markets"
+]
+ai_region: [
+0: "america,limburg,netherlands,europe"
+]
+ai_org: null
+ai_summary: "The U.S. faces a significant decline in births known as 'birth dearth,' affecting its economy and s..."
+ai_content: "In recent years, America's economic landscape has increasingly focused on employment statistics rat..."
+duplicate: true
+}
+15: {
+article_id: "1d51c9b571dcf3585112f539f8a3f389"
+title: "Tariff Tensions Escalate: Ex-Diplomat Vikas Swarup Blasts Trump Aide Navarro For 'Laundromat' Remar..."
+link: "https://timesofindia.indiatimes.com/videos/news/tariff-tensions-escalate-ex-diplomat-vikas-swarup-b..."
+keywords: [
+0: "news videos"
+]
+creator: [
+0: "TIMESOFINDIA.COM"
+]
+description: "India has drawn a red line in the ongoing tariff war. Responding to Trump adviser Peter Navarro’s e..."
+content: "India has drawn a red line in the ongoing tariff war. Responding to Trump adviser Peter Navarro’s e..."
+pubDate: "2025-08-30 05:01:10"
+pubDateTZ: "UTC"
+image_url: "https://static.toiimg.com/photo/123595846.cms"
+video_url: null
+source_id: "toi"
+source_name: "The Times Of India"
+source_priority: 2178
+source_url: "https://timesofindia.indiatimes.com"
+source_icon: "https://n.bytvi.com/toi.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.11
+neutral: 0.08
+negative: 99.81
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "india,asia"
+]
+ai_org: [
+0: "trump"
+]
+ai_summary: "Former Indian diplomat Vikas Swarup criticized Trump's advisor Peter Navarro's claim that India aid..."
+ai_content: "In a sharp rebuke to American trade policies, former Indian diplomat Vikas Swarup condemned remarks..."
+duplicate: false
+}
+16: {
+article_id: "a6ebd5cf7898d7976fc14b1033cbcae0"
+title: "What is the current state of EU–Russia trade? Main export and import flows in 2025"
+link: "https://www.euronews.com/business/2025/08/30/what-is-the-current-state-of-eurussia-trade-main-expor..."
+keywords: [
+0: "russia's invasion of ukraine"
+1: "russia"
+2: "eu-russia"
+3: "trade"
+4: "energy"
+5: "foreign trade deficit"
+]
+creator: [
+0: "Servet Yanatma"
+]
+description: "EU–Russia trade volume fell to its lowest level since 2002 in the second quarter of 2025. The EU al..."
+content: "EU–Russia trade volume fell to its lowest level since 2002 in the second quarter of 2025. The EU al..."
+pubDate: "2025-08-30 05:00:30"
+pubDateTZ: "UTC"
+image_url: "https://images.euronews.com/articles/stories/09/44/14/70/1536x864_cmsv2_534fd2a9-c746-53c2-ae82-193..."
+video_url: null
+source_id: "euronews"
+source_name: "Euronews"
+source_priority: 3311
+source_url: "https://www.euronews.com"
+source_icon: "https://n.bytvi.com/euronews.png"
+language: "english"
+country: [
+0: "montenegro"
+1: "bosnia and herzegovina"
+2: "cyprus"
+3: "united kingdom"
+4: "albania"
+5: "malta"
+6: "ireland"
+7: "macedonia"
+8: "spain"
+9: "moldova"
+10: "france"
+11: "germany"
+12: "san marino"
+13: "switzerland"
+14: "poland"
+15: "netherland"
+16: "hungary"
+17: "italy"
+18: "belgium"
+19: "austria"
+20: "greece"
+21: "russia"
+22: "sweden"
+23: "norway"
+24: "portugal"
+25: "romania"
+26: "serbia"
+27: "bulgaria"
+28: "czech republic"
+29: "latvia"
+30: "lithuania"
+31: "slovakia"
+32: "slovenia"
+33: "ukraine"
+34: "andorra"
+35: "kosovo"
+36: "liechtenstein"
+37: "finland"
+38: "monaco"
+39: "vatican"
+40: "belarus"
+41: "denmark"
+42: "estonia"
+43: "luxembourg"
+44: "croatia"
+45: "iceland"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.2
+neutral: 99.54
+negative: 0.26
+}
+ai_tag: [
+0: "international trade"
+]
+ai_region: [
+0: "russia,europe/asia"
+]
+ai_org: null
+ai_summary: "In Q2 2025, EU-Russia trade hit its lowest point since 2002 due to post-invasion sanctions, resulti..."
+ai_content: "The European Union experienced a dramatic shift in its economic relations with Russia following the..."
+duplicate: true
+}
+17: {
+article_id: "226d7a6d7d7ff33822bfbf17537f29bc"
+title: "David McWilliams: Donald Trump’s every move smacks of corrosive Perónism for the TikTok age"
+link: "https://www.irishtimes.com/opinion/2025/08/30/donald-trumps-every-move-smacks-of-corrosive-peronism..."
+keywords: [
+0: "opinion"
+]
+creator: [
+0: "David McWilliams"
+]
+description: "Juan Perón turned Argentina into an economic basket case with the kind of meddling now embraced by..."
+content: "When Donald Trump looks in the mirror does he see Juan Perón smirking back at him? The parallels b..."
+pubDate: "2025-08-30 05:00:00"
+pubDateTZ: "UTC"
+image_url: "https://www.irishtimes.com/resizer/v2/K2APABF4MJBOREPQO2RKIKLKHU.jpg?auth=7522f406fbc04f17f76d30f46..."
+video_url: null
+source_id: "irishtimes"
+source_name: "The Irish Times"
+source_priority: 9425
+source_url: "https://www.irishtimes.com"
+source_icon: "https://n.bytvi.com/irishtimes.png"
+language: "english"
+country: [
+0: "ireland"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 2.98
+neutral: 2.36
+negative: 94.66
+}
+ai_tag: [
+0: "economy"
+]
+ai_region: [
+0: "argentina,south america"
+1: "united states of america,north america"
+]
+ai_org: null
+ai_summary: "David McWilliams draws comparisons between Donald Trump's presidency and Juan Peron's rule in Argen..."
+ai_content: "In a thought-provoking analysis, David McWilliams likens President Donald Trump's political maneuve..."
+duplicate: false
+}
+18: {
+article_id: "c0c3b6bd94c81654ab478e791b7c0a4c"
+title: "Macro Trading 101: Risk Management, Position Sizing, and Letting Winners Run"
+link: "https://ng.investing.com/analysis/macro-trading-101-risk-management-position-sizing-and-letting-win..."
+keywords: [
+0: "spdr® s&p 500® etf trust"
+]
+creator: [
+0: "Alfonso Peccatiello"
+]
+description: "Market Analysis by covering: SPDR® S&P 500® ETF Trust. Read 's Market Analysis on Investing.com NG."
+content: "’I compile statistics on my traders. My best trader makes money only 63 percent of the time. Most t..."
+pubDate: "2025-08-30 04:50:00"
+pubDateTZ: "UTC"
+image_url: "https://d1-invdn-com.investing.com/content/picc1336072156a6cce35635d469d05038f.jpg"
+video_url: null
+source_id: "investing_ng"
+source_name: "Investing Nigeria"
+source_priority: 1205
+source_url: "https://ng.investing.com"
+source_icon: "https://n.bytvi.com/investing_ng.png"
+language: "english"
+country: [
+0: "nigeria"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.11
+neutral: 99.82
+negative: 0.08
+}
+ai_tag: [
+0: "financial markets"
+]
+ai_region: null
+ai_org: null
+ai_summary: "Steve Cohen emphasizes risk management in macro trading, noting most traders achieve a 50-55% succe..."
+ai_content: "In the realm of macro trading, Steve Cohen offers insights into effective risk management technique..."
+duplicate: false
+}
+19: {
+article_id: "51cccbaf6494bcf0da97c6abbdf4eb40"
+title: "Gold and Silver: The Case for a Potential Return to Metal-Based Monetary Standard"
+link: "https://www.investing.com/analysis/gold-and-silver-the-case-for-a-potential-return-to-metalbased-mo..."
+keywords: [
+0: "silver futures"
+1: "gold futures"
+]
+creator: [
+0: "Charles-Henry Monchau"
+]
+description: "Market Analysis by covering: Gold Futures, Silver Futures. Read 's Market Analysis on Investing.com"
+content: "Precious metals are shining this year, with gold being now one of the best-performing asset YTD, wi..."
+pubDate: "2025-08-30 04:49:00"
+pubDateTZ: "UTC"
+image_url: "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg"
+video_url: null
+source_id: "investing_us"
+source_name: "Investing Us"
+source_priority: 1205
+source_url: "https://www.investing.com"
+source_icon: "https://n.bytvi.com/investing_us.jpg"
+language: "english"
+country: [
+0: "united states of america"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.11
+neutral: 99.82
+negative: 0.08
+}
+ai_tag: [
+0: "metal & mining"
+]
+ai_region: null
+ai_org: [
+0: "silver futures"
+1: "gold futures"
+]
+ai_summary: "Market analysis suggests precious metals like gold and silver may signal a return to a metal-based ..."
+ai_content: "In recent financial markets, there has been significant attention paid to precious metals such as g..."
+duplicate: true
+}
+20: {
+article_id: "32d8d5b1ada35912f1540a3c2cb8f21f"
+title: "Gold and Silver: The Case for a Potential Return to Metal-Based Monetary Standard"
+link: "https://ng.investing.com/analysis/gold-and-silver-the-case-for-a-potential-return-to-metalbased-mon..."
+keywords: [
+0: "gold spot us dollar"
+1: "us dollar index futures"
+2: "silver spot us dollar"
+3: "euro us dollar"
+]
+creator: [
+0: "Charles-Henry Monchau"
+]
+description: "Market Analysis by covering: Euro US Dollar, Gold Spot US Dollar, Silver Spot US Dollar, US Dollar ..."
+content: "Precious metals are shining this year, with gold being now one of the best-performing asset YTD, wi..."
+pubDate: "2025-08-30 04:49:00"
+pubDateTZ: "UTC"
+image_url: "https://d1-invdn-com.investing.com/content/pic6127ddcc5f2293adc7ce0e9262b321b5.png"
+video_url: null
+source_id: "investing_ng"
+source_name: "Investing Nigeria"
+source_priority: 1205
+source_url: "https://ng.investing.com"
+source_icon: "https://n.bytvi.com/investing_ng.png"
+language: "english"
+country: [
+0: "nigeria"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.08
+neutral: 99.84
+negative: 0.08
+}
+ai_tag: [
+0: "financial markets"
+]
+ai_region: null
+ai_org: [
+0: "euro us dollar"
+1: "us dollar index futures"
+2: "silver spot us dollar"
+3: "gold spot us dollar"
+]
+ai_summary: "Market analysis suggests precious metals like gold and silver may signal a return to a metal-based ..."
+ai_content: "In recent financial markets, there has been significant attention paid to precious metals such as g..."
+duplicate: true
+}
+21: {
+article_id: "c77de4b77db8177844d1f6ffaf2d04e8"
+title: "Gold and Silver: The Case for a Potential Return to Metal-Based Monetary Standard"
+link: "https://uk.investing.com/analysis/gold-and-silver-the-case-for-a-potential-return-to-metalbased-mon..."
+keywords: [
+0: "gold spot us dollar"
+1: "silver futures"
+2: "gold futures"
+3: "silver spot us dollar"
+]
+creator: [
+0: "Charles-Henry Monchau"
+]
+description: "Market Analysis by covering: Gold Spot US Dollar, Silver Spot US Dollar, Gold Futures, Silver Futur..."
+content: "Precious metals are shining this year, with gold being now one of the best-performing asset YTD, wi..."
+pubDate: "2025-08-30 04:49:00"
+pubDateTZ: "UTC"
+image_url: "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg"
+video_url: null
+source_id: "investing_uk"
+source_name: "Investing Uk"
+source_priority: 1205
+source_url: "https://uk.investing.com"
+source_icon: "https://n.bytvi.com/investing_uk.jpg"
+language: "english"
+country: [
+0: "united kingdom"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.11
+neutral: 99.81
+negative: 0.08
+}
+ai_tag: [
+0: "financial markets"
+]
+ai_region: null
+ai_org: [
+0: "gold futures"
+1: "silver spot us dollar"
+2: "gold spot us dollar"
+3: "silver futures"
+]
+ai_summary: "Market analysis suggests that precious metals like gold and silver may signal a return to a metal-b..."
+ai_content: "In recent financial markets, there has been significant interest in precious metals, particularly g..."
+duplicate: true
+}
+22: {
+article_id: "8d271ca8e98f1321d7d55f3a5c53c88c"
+title: "Trump's Trade Tariff Under Scrutiny: US Court Rules Trump Overstepped on Global Tariffs | N18G"
+link: "https://www.news18.com/videos/world/trump-s-trade-tariff-under-scrutiny-us-court-rules-trump-overst..."
+keywords: [
+0: "latest"
+]
+creator: [
+0: "News18"
+]
+description: "A U.S. federal court has ruled that former President Donald Trump overstepped his legal authority w..."
+content: "Last Updated: August 30, 2025, 09:56 IST Videos World A U.S. federal court has ruled that former Pr..."
+pubDate: "2025-08-30 04:26:33"
+pubDateTZ: "UTC"
+image_url: "https://images.news18.com/ibnlive/uploads/2025/08/1756528323_80e6b8bb-42e3-4e70-86f0-a8d1dc9c6af8-3..."
+video_url: null
+source_id: "news18"
+source_name: "News 18"
+source_priority: 1063
+source_url: "https://www.news18.com"
+source_icon: "https://n.bytvi.com/news18.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.45
+neutral: 24.82
+negative: 74.73
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: [
+0: "us court"
+]
+ai_summary: "A U.S. federal court found that former President Donald Trump's imposition of global tariffs was be..."
+ai_content: "In a significant development, a U.S. federal court has determined that former President Donald Trum..."
+duplicate: false
+}
+23: {
+article_id: "d855440929231e7ffe5970375c65e024"
+title: "Ex-RBI Governor Raghuram Rajan suggests ‘windfall tax’ on Indian oil refiners to shield SMEs from T..."
+link: "https://www.livemint.com/news/india/exrbi-governor-raghuram-rajan-suggests-windfall-tax-on-indian-o..."
+keywords: [
+0: "raghuram rajan"
+1: "oil refiners"
+2: "trump tariffs"
+3: "former rbi governor"
+4: "small and medium enterprises"
+5: "discounted crude oil"
+6: "windfall tax"
+7: "indian oil refiner"
+]
+creator: [
+0: "Eshita Gain"
+]
+description: "Former RBI Governor proposed a windfall tax on oil refiners profiting from discounted crude oil and..."
+content: "Former Reserve Bank of India (RBI) Governor recently took to LinkedIn , suggesting a measure to mit..."
+pubDate: "2025-08-30 04:25:58"
+pubDateTZ: "UTC"
+image_url: "https://www.livemint.com/lm-img/img/2025/08/30/1600x900/logo/PTI02-01-2024-000227B-0_1706881044703_..."
+video_url: null
+source_id: "livemint"
+source_name: "Mint"
+source_priority: 7134
+source_url: "https://www.livemint.com"
+source_icon: "https://n.bytvi.com/livemint.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.12
+neutral: 99.63
+negative: 0.25
+}
+ai_tag: [
+0: "energy"
+1: "economy"
+]
+ai_region: null
+ai_org: [
+0: "trump"
+1: "rbi"
+]
+ai_summary: "Former RBI Governor Raghuram Rajan has recommended a 'windfall tax' on Indian oil refiners benefiti..."
+ai_content: "In a move aimed at cushioning the blow dealt to India's economy by escalating trade tensions betwee..."
+duplicate: false
+}
+24: {
+article_id: "74d2efbcf0d10576892fc0d97e553532"
+title: "NTPC, ONGC, Kalyan Jewellers, Patanjali Foods to turn ex-dividend next week"
+link: "https://www.businesstoday.in/markets/stocks/story/ntpc-ongc-kalyan-jewellers-patanjali-foods-to-tur..."
+keywords: [
+0: "dividend"
+1: "dividend shares"
+2: "dividend record date"
+3: "high dividend paying stock"
+4: "dividend stock"
+5: "ex date"
+6: "dividend paying stocks"
+7: "fy25 dividend"
+]
+creator: [
+0: "business_today"
+]
+description: "The ONGC board, at its meeting held on May 21, had considered and approved a final dividend of Rs 1..."
+content: "Oil and Natural Gas Corporation Ltd (ONGC), NTPC Ltd, Prestige Estates Projects Ltd, Oil India Ltd,..."
+pubDate: "2025-08-30 04:25:40"
+pubDateTZ: "UTC"
+image_url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202508/68b27cb5c7d45-the-ntpc-board--at..."
+video_url: null
+source_id: "businesstoday"
+source_name: "Business News India"
+source_priority: 5073
+source_url: "https://www.businesstoday.in"
+source_icon: "https://n.bytvi.com/businesstoday.jpg"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.11
+neutral: 99.83
+negative: 0.07
+}
+ai_tag: [
+0: "corporate news"
+]
+ai_region: null
+ai_org: [
+0: "patanjali foods"
+1: "ongc"
+2: "ntpc"
+3: "kalyan jewellers"
+]
+ai_summary: "On May 21, ONGC's board approved a final dividend of Rs 1.25 per share; NTPC suggested Rs 3.35 per ..."
+ai_content: "Oil and Natural Gas Corporation Ltd (ONGC), NTPC Ltd, Prestige Estates Projects Ltd, Oil India Ltd,..."
+duplicate: false
+}
+25: {
+article_id: "2b117c80333abe22f357bc6167018b2f"
+title: "US Issues Travel Advisory For China, Advises 'Enhanced Precautions' - Know Why"
+link: "https://www.timesnownews.com/world/us/us-news/us-issues-travel-advisory-for-china-advises-enhanced-..."
+keywords: [
+0: "guangdong province"
+1: "us centers for disease control and prevention"
+2: "mark zuckerberg"
+3: "us travel advisory china"
+4: "china"
+5: "chikungunya china"
+6: "chicago"
+7: "us travel advisory"
+8: "donald trump"
+9: "new tariff threat to nations"
+10: "cdc"
+11: "china chikungunya outbreak"
+12: "foshan city"
+13: "chikungunya"
+14: "us news"
+15: "chinachina"
+16: "new york post"
+17: "times now"
+]
+creator: [
+0: "Ananya Varma"
+]
+description: "The CDC has issued a Level 2 travel advisory for Guangdong Province, China, due to a significant ch..."
+content: "The US Centers for Disease Control and Prevention (CDC) has issued a travel advisory for Guangdong ..."
+pubDate: "2025-08-30 04:05:28"
+pubDateTZ: "UTC"
+image_url: "https://images.timesnownews.com/thumb/msid-152558792,thumbsize-311265,width-1280,height-720,resizem..."
+video_url: null
+source_id: "timesnownews"
+source_name: "Times Now News"
+source_priority: 2243
+source_url: "https://www.timesnownews.com"
+source_icon: "https://n.bytvi.com/timesnownews.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "crime"
+1: "top"
+2: "environment"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.06
+neutral: 99.78
+negative: 0.16
+}
+ai_tag: [
+0: "natural disasters"
+1: "accidents"
+]
+ai_region: [
+0: "guangdong province"
+1: "china,asia"
+]
+ai_org: [
+0: "us issues travel advisory for china"
+1: "cdc"
+]
+ai_summary: "The CDC has issued a Level 2 travel advisory for Guangdong Province, China, advising visitors to pr..."
+ai_content: "In response to a substantial chikungunya outbreak affecting Guangdong Province, China, the U.S. Cen..."
+duplicate: false
+}
+26: {
+article_id: "96bc2f391dc70b84b95f791a1a973875"
+title: "Energy prices are rising again - how to keep costs down and slash your bill"
+link: "https://www.mirror.co.uk/money/energy-prices-rising-again-how-35809045"
+keywords: [
+0: "money"
+]
+creator: [
+0: "mirrornews@mirror.co.uk (Martyn James)"
+]
+description: "Ofgem has announced its energy price cap is rising again this winter - here is how you can combat t..."
+content: "Ofgem has announced its energy price cap is rising again this winter - here is how you can combat t..."
+pubDate: "2025-08-30 04:00:00"
+pubDateTZ: "UTC"
+image_url: "https://i2-prod.mirror.co.uk/incoming/article35417478.ece/ALTERNATES/s615/1_Person-shocked-by-their..."
+video_url: null
+source_id: "mirroruk"
+source_name: "Mirror"
+source_priority: 910
+source_url: "https://www.mirror.co.uk"
+source_icon: "https://n.bytvi.com/mirroruk.png"
+language: "english"
+country: [
+0: "united kingdom"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "positive"
+sentiment_stats: {
+positive: 93.5
+neutral: 6.01
+negative: 0.49
+}
+ai_tag: [
+0: "energy"
+]
+ai_region: null
+ai_org: [
+0: "ofgem"
+]
+ai_summary: "Ofgem has raised the energy price cap by 2%, leading to an estimated annual cost of £1,755 per fami..."
+ai_content: "In light of recent climate changes signaling another challenging winter ahead, consumers across Eng..."
+duplicate: false
+}
+27: {
+article_id: "ab814c2175333800c5e9c4299e7d3e6b"
+title: "What happens to Donald Trump’s tariffs now that federal appeals court has knocked them down"
+link: "https://www.thehindu.com/news/international/what-happens-to-donald-trumps-tariffs-now-that-federal-..."
+keywords: [
+0: "world"
+]
+creator: [
+0: "Authors & Contributors"
+]
+description: "U.S. Court of Appeals for the Federal Circuit ruled that Mr. Trump went too far when he declared na..."
+content: "President Donald Trump has audaciously claimed virtually unlimited power to bypass Congress and imp..."
+pubDate: "2025-08-30 03:59:42"
+pubDateTZ: "UTC"
+image_url: "https://th-i.thgim.com/public/incoming/yv33/article69992097.ece/alternates/LANDSCAPE_1200/2025-08-2..."
+video_url: null
+source_id: "thehindu"
+source_name: "The Hindu"
+source_priority: 2972
+source_url: "https://www.thehindu.com"
+source_icon: "https://n.bytvi.com/thehindu.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.12
+neutral: 0.26
+negative: 99.62
+}
+ai_tag: [
+0: "government"
+]
+ai_region: null
+ai_org: [
+0: "federal circuit"
+1: "u.s. court of appeals"
+]
+ai_summary: "The U.S. Court of Appeals for the Federal Circuit struck down parts of President Trump's tariffs, c..."
+ai_content: "In a significant development within the realm of international trade policy, the U.S. Court of Appe..."
+duplicate: false
+}
+28: {
+article_id: "8e2985f09b7315c6504498cd0a48258a"
+title: "RIL share price drops despite Jio IPO, AI booster at AGM: 4 reasons behind fall — Opportunity to bu..."
+link: "https://www.livemint.com/market/stock-market-news/ril-share-price-drops-despite-jio-ipo-ai-booster-..."
+keywords: [
+0: "reliance stock price"
+1: "ril share price"
+2: "reliance shares outlook"
+3: "reliance agm highlights"
+4: "ril stock outlook"
+5: "reliance agm 2025"
+6: "mukesh ambani"
+7: "why did ril share fall"
+8: "reliance"
+9: "ril agm 2025"
+10: "indian stock market"
+11: "ril"
+12: "reliance share price"
+]
+creator: [
+0: "Saloni Goel"
+]
+description: "Reliance Industries' AGM highlighted Jio's IPO timeline and a strategic pivot towards AI and sustai..."
+content: "RIL share price: Like always, Reliance Industries ' (RIL) annual general meeting (AGM) was a power-..."
+pubDate: "2025-08-30 03:49:29"
+pubDateTZ: "UTC"
+image_url: "https://www.livemint.com/lm-img/img/2025/08/30/1600x900/PTI08-29-2025-000546B-0_1756524438685_17565..."
+video_url: null
+source_id: "livemint"
+source_name: "Mint"
+source_priority: 7134
+source_url: "https://www.livemint.com"
+source_icon: "https://n.bytvi.com/livemint.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 37.58
+neutral: 60.77
+negative: 1.65
+}
+ai_tag: [
+0: "financial markets"
+]
+ai_region: null
+ai_org: [
+0: "jio ipo"
+1: "ril"
+2: "reliance industries agm"
+]
+ai_summary: "Reliance Industries' (RIL) AGM saw the announcement of Jio's upcoming IPO in Q2 2026, a strategic m..."
+ai_content: "At the recent Annual General Meeting (AGM), Reliance Industries (RIL) unveiled several significant ..."
+duplicate: false
+}
+29: {
+article_id: "d31a09b9178ef1d3ed929100fac4d646"
+title: "India’s FY26 GDP to Grow 6.3–6.8% Despite US Tariffs, Says Chief Economic Advisor V Anantha Nageswa..."
+link: "https://www.timesnownews.com/business-economy/economy/indias-fy26-gdp-to-grow-6-36-8-despite-us-tar..."
+keywords: [
+0: "us tariffs"
+1: "india gdp fy26"
+2: "v anantha nageswaran"
+3: "nageswaran"
+4: "goods and services tax"
+5: "parliament"
+6: "chief economic advisor"
+7: "economic survey"
+8: "india gdp"
+9: "economy"
+10: "india"
+11: "times now"
+12: "new delhi chief economic"
+]
+creator: [
+0: "Anurag Kumar"
+]
+description: "Chief Economic Advisor V Anantha Nageswaran projects India’s FY26 GDP growth at 6.3–6.8%, citing st..."
+content: "New Delhi: Chief Economic Advisor V Anantha Nageswaran projected that the Indian economy will grow ..."
+pubDate: "2025-08-30 03:42:39"
+pubDateTZ: "UTC"
+image_url: "https://images.timesnownews.com/thumb/msid-152558684,thumbsize-831696,width-1280,height-720,resizem..."
+video_url: null
+source_id: "timesnownews"
+source_name: "Times Now News"
+source_priority: 2243
+source_url: "https://www.timesnownews.com"
+source_icon: "https://n.bytvi.com/timesnownews.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 8.07
+neutral: 91.54
+negative: 0.39
+}
+ai_tag: [
+0: "economy"
+]
+ai_region: [
+0: "india,asia"
+1: "united states of america,north america"
+]
+ai_org: null
+ai_summary: "Chief Economic Advisor V Anantha Nageswaran forecasts India's FY26 GDP growth at 6.3-6.8%, despite ..."
+ai_content: "In a recent briefing, Chief Economic Advisor V Anantha Nageswaran has provided insights into India'..."
+duplicate: false
+}
+30: {
+article_id: "77e7de8fd8df6a734c3b50117dc90ecc"
+title: "Tension as Iran-backed Houthi Prime Minister Ahmed al-Rahawi 'assassinated' by Israel in Yemen"
+link: "https://www.legit.ng/world/asia/1671755-iran-backed-houthi-pm-killed-israeli-airstrikes-yemens-capi..."
+keywords: [
+0: "usa"
+]
+creator: [
+0: "Ridwan Adeola"
+]
+description: "Tension was noted as Iran-backed Houthi Prime Minister Ahmed al-Rahawi was 'assassinated'. The Isra..."
+content: "The Prime Minister of the Houthi Government, Ahmed al-Rahawi, was reportedly killed in an Israeli a..."
+pubDate: "2025-08-30 03:31:59"
+pubDateTZ: "UTC"
+image_url: "https://cdn.legit.ng/images/1120/acf434722ab8a867.jpeg?v=1"
+video_url: null
+source_id: "legit"
+source_name: "Legit Nigeria"
+source_priority: 1192
+source_url: "https://www.legit.ng"
+source_icon: "https://n.bytvi.com/legit.png"
+language: "english"
+country: [
+0: "nigeria"
+]
+category: [
+0: "crime"
+1: "top"
+2: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.09
+neutral: 0.1
+negative: 99.82
+}
+ai_tag: [
+0: "conflicts & war"
+1: "accidents"
+]
+ai_region: [
+0: "israel,asia"
+1: "yemen,asia"
+]
+ai_org: [
+0: "israel ir"
+]
+ai_summary: "Iran-backed Houthi Prime Minister Ahmed al-Rahawi was assassinated in an Israeli airstrike on an ap..."
+ai_content: "In a significant escalation within the ongoing Middle East tensions, Iran-backed Houthi Prime Minis..."
+duplicate: false
+}
+31: {
+article_id: "4e9d986f36c3efdb8b1fb51f2b3b09ea"
+title: "Opinion | Is Urea Shortage An Opportunity To Move Towards Microbe-Based Nutrition For Our Farms?"
+link: "https://www.news18.com/opinion/opinion-is-urea-shortage-an-opportunity-to-move-towards-microbe-base..."
+keywords: [
+0: "latest"
+]
+creator: [
+0: "News18"
+]
+description: "India’s urea shortage exposes its dependence on oil, urging a shift to microbe-based nutrition and ..."
+content: "India’s urea shortage exposes its dependence on oil, urging a shift to microbe-based nutrition and ..."
+pubDate: "2025-08-30 03:30:13"
+pubDateTZ: "UTC"
+image_url: "https://images.news18.com/ibnlive/uploads/2025/08/Untitled-design-13-2025-08-83c47f56bb8c2060c0198d..."
+video_url: null
+source_id: "news18"
+source_name: "News 18"
+source_priority: 1063
+source_url: "https://www.news18.com"
+source_icon: "https://n.bytvi.com/news18.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "business"
+1: "top"
+2: "environment"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 9.69
+neutral: 16.17
+negative: 74.14
+}
+ai_tag: [
+0: "renewable energy"
+1: "energy"
+]
+ai_region: [
+0: "india,asia"
+]
+ai_org: null
+ai_summary: "India's urea shortage highlights its dependency on oil, prompting calls for a transition to microbe..."
+ai_content: "The recent urea shortage in India underscores the nation's vulnerability to fluctuating oil prices ..."
+duplicate: false
+}
+32: {
+article_id: "8fc05ecc5cb07864f1ad8ddbef1440d0"
+title: "Trump's tariffs ‘illegal’? What court say in its ruling, citing US President's emergency powers"
+link: "https://www.livemint.com/news/us-news/trumps-tariffs-illegal-what-court-say-in-its-ruling-citing-us..."
+keywords: [
+0: "donald trump"
+1: "tariffs"
+2: "trade agenda"
+3: "international emergency economic powers act"
+4: "federal appeals court"
+]
+creator: [
+0: "Mausam Jha"
+]
+description: "A federal appeals court found President Trump lacked the authority to impose extensive tariffs, sup..."
+content: "A federal appeals court ruled Friday that US President Donald Trump lacked the legal authority to i..."
+pubDate: "2025-08-30 03:27:31"
+pubDateTZ: "UTC"
+image_url: "https://www.livemint.com/lm-img/img/2025/08/30/1600x900/logo/FRANCE-GERMANY-MACRON-TECH-0_175652221..."
+video_url: null
+source_id: "livemint"
+source_name: "Mint"
+source_priority: 7134
+source_url: "https://www.livemint.com"
+source_icon: "https://n.bytvi.com/livemint.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.12
+neutral: 0.29
+negative: 99.59
+}
+ai_tag: null
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: null
+ai_summary: "A federal appeals court ruled that President Trump's imposition of wide-ranging tariffs was beyond ..."
+ai_content: "In a landmark decision, the U.S. Court of Appeals for the Federal Circuit determined that President..."
+duplicate: false
+}
+33: {
+article_id: "cf870ac991f394d02c1bb8389e018a47"
+title: "New U.S. tariff threat targets Indian solar exports: Probe could hit $1.6 bn industry"
+link: "https://www.businesstoday.in/india/story/new-us-tariff-threat-targets-indian-solar-exports-probe-co..."
+keywords: null
+creator: [
+0: "business_today"
+]
+description: "The U.S. International Trade Commission (ITC) voted unanimously on Friday to advance the probe, whi..."
+content: "The U.S. has officially launched an investigation into solar panel imports from India, Laos, and In..."
+pubDate: "2025-08-30 03:18:59"
+pubDateTZ: "UTC"
+image_url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202508/68b26d9888b61-the-itcs-decision-..."
+video_url: null
+source_id: "businesstoday"
+source_name: "Business News India"
+source_priority: 5073
+source_url: "https://www.businesstoday.in"
+source_icon: "https://n.bytvi.com/businesstoday.jpg"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.47
+neutral: 3.78
+negative: 95.75
+}
+ai_tag: [
+0: "government"
+1: "national security"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: [
+0: "u.s. international trade commission"
+]
+ai_summary: "The U.S. International Trade Commission (ITC) has advanced a probe into solar panel imports from In..."
+ai_content: "In a decisive step towards protecting its burgeoning solar industry, the United States has escalate..."
+duplicate: false
+}
+34: {
+article_id: "6b3fbab3d02d077371b1f1c713208fdf"
+title: "Most tariffs by Donald trump are not legal, US appeals court rules"
+link: "https://www.khaleejtimes.com/world/americas/trump-tariffs-illegal-us-appeals-court-rules"
+keywords: [
+0: "americas"
+]
+creator: [
+0: "AFP"
+]
+description: "Several legal challenges have been filed against the tariffs Trump invoked citing emergencies. If t..."
+content: "A US appeals court on Friday (August 29) ruled that many of President Donald Trump's tariffs, which..."
+pubDate: "2025-08-30 03:14:40"
+pubDateTZ: "UTC"
+image_url: "https://imgengine.khaleejtimes.com/khaleejtimes-english/2025-08-30/vp2d7l7p/trump.png?format=auto&h..."
+video_url: null
+source_id: "khaleejtimes"
+source_name: "Khaleej Times"
+source_priority: 7688
+source_url: "https://www.khaleejtimes.com"
+source_icon: "https://n.bytvi.com/khaleejtimes.png"
+language: "english"
+country: [
+0: "united arab emirates"
+]
+category: [
+0: "world"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.5
+neutral: 68.16
+negative: 31.35
+}
+ai_tag: [
+0: "economy"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: null
+ai_summary: "A US appeals court ruled on August 29 that several tariffs imposed by President Donald Trump under ..."
+ai_content: "In a significant development affecting international commerce, the U.S. Court of Appeals for the Fe..."
+duplicate: false
+}
+35: {
+article_id: "302254adea077e703b909cdcc44c1749"
+title: "'Dead Economy', Really? India's GDP Data Is Making Trump Eat His Words"
+link: "https://www.timesnownews.com/business-economy/economy/dead-economy-really-indias-gdp-data-is-making..."
+keywords: [
+0: "spotsnot"
+1: "china"
+2: "india"
+3: "india gdp data"
+4: "risegrowth"
+5: "gfcf"
+6: "trumps"
+7: "nso"
+8: "new delhi"
+9: "times now"
+10: "national statistics office"
+11: "germany"
+12: "indiadonald trumps"
+13: "agriculture holding steadyeven"
+14: "europe"
+15: "dead economy"
+16: "united states"
+17: "gdp data news"
+18: "asia"
+19: "chargethe"
+20: "donald trump"
+21: "economy"
+]
+creator: [
+0: "Anurag Kumar"
+]
+description: "India’s economy grew 7.8% in Q1 FY26, a five-quarter high, defying US tariff pressure. Strong manuf..."
+content: "New Delhi: Just days after the 25% additional tariff by the United States came into effect, India's..."
+pubDate: "2025-08-30 03:07:27"
+pubDateTZ: "UTC"
+image_url: "https://images.timesnownews.com/thumb/msid-152558602,thumbsize-21058,width-1280,height-720,resizemo..."
+video_url: null
+source_id: "timesnownews"
+source_name: "Times Now News"
+source_priority: 2243
+source_url: "https://www.timesnownews.com"
+source_icon: "https://n.bytvi.com/timesnownews.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "business"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.37
+neutral: 0.19
+negative: 99.44
+}
+ai_tag: [
+0: "economy"
+]
+ai_region: [
+0: "india,asia"
+1: "united states of america,north america"
+]
+ai_org: null
+ai_summary: "India's GDP surged by 7.8% in Q1 FY26 despite U.S. tariffs, countering Trump's 'dead economy' claim..."
+ai_content: "In a striking rebuff to former U.S. President Donald Trump's characterization of India's economy as..."
+duplicate: false
+}
+36: {
+article_id: "ccc81b3ba11e279a1e06bd5073b1e16e"
+title: "Watch: Tianjin Dazzles with Night of Haihe Light Show Ahead of SCO Summit 2025"
+link: "https://www.timesnownews.com/world/asia/tianjin-night-of-haihe-light-show-sco-summit-2025-donald-tr..."
+keywords: [
+0: "shanghai cooperation organization"
+1: "times now"
+2: "xi jinping"
+3: "modis"
+4: "nsa ajit doval"
+5: "vladimir putin"
+6: "trumps"
+7: "india"
+8: "asia"
+9: "haihe"
+10: "donald trump"
+11: "sco summit"
+12: "wang yi"
+13: "pm modi"
+14: "modi"
+15: "narendra modi"
+16: "china"
+17: "tianjin"
+18: "night of haihe light show"
+19: "japan"
+20: "kazan"
+21: "ladakh"
+22: "sco"
+23: "special representatives"
+24: "sco summit 2025"
+25: "eastern ladakh"
+26: "xi jingping"
+27: "trump"
+]
+creator: [
+0: "Arun Nair"
+]
+description: "A vibrant light show in Tianjin celebrates the upcoming 2025 Shanghai Cooperation Organization (SCO..."
+content: "A spectacular light show is being held in the northern Chinese port city of Tianjin, as part of the..."
+pubDate: "2025-08-30 02:57:21"
+pubDateTZ: "UTC"
+image_url: "https://images.timesnownews.com/thumb/msid-152558555,imgsize-51784,width-1280,height-720/152558555...."
+video_url: null
+source_id: "timesnownews"
+source_name: "Times Now News"
+source_priority: 2243
+source_url: "https://www.timesnownews.com"
+source_icon: "https://n.bytvi.com/timesnownews.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "positive"
+sentiment_stats: {
+positive: 99.46
+neutral: 0.3
+negative: 0.24
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "tianjin,tianjin,china,asia"
+1: "tianjin,china,asia"
+]
+ai_org: [
+0: "shanghai cooperation organization summit"
+]
+ai_summary: "A night-time light display called 'Night of Haihe' marks preparations for the 2025 SCO Summit in Ti..."
+ai_content: "In anticipation of the forthcoming 2025 Shanghai Cooperation Organization (SCO) Summit, residents o..."
+duplicate: false
+}
+37: {
+article_id: "7d8336287558699a69a7de65066f85d8"
+title: "Many of Donald Trump's tariffs are illegal, a divided US court rules"
+link: "https://www.sbs.com.au/news/article/many-of-donald-trumps-tariffs-are-illegal-divided-us-court-rule..."
+keywords: [
+0: "world"
+]
+creator: [
+0: "SBS News"
+]
+description: "US President Donald Trump has made tariffs a pillar of foreign policy in his second term. However, ..."
+content: "A divided United States appeals court has ruled that many of Donald Trump's tariffs are illegal, un..."
+pubDate: "2025-08-30 02:52:17"
+pubDateTZ: "UTC"
+image_url: "https://images.sbs.com.au/dims4/default/fdd0476/2147483647/strip/false/crop/6000x2757+0+622/resize/..."
+video_url: null
+source_id: "sbs"
+source_name: "Sbs News"
+source_priority: 9072
+source_url: "https://www.sbs.com.au/news"
+source_icon: "https://n.bytvi.com/sbs.png"
+language: "english"
+country: [
+0: "australia"
+]
+category: [
+0: "world"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.09
+neutral: 0.17
+negative: 99.74
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: null
+ai_summary: "A divided U.S. appeals court found many of former President Donald Trump's tariffs illegal, challen..."
+ai_content: "In a contentious move undermining its standing as a cornerstone of international economic strategy,..."
+duplicate: false
+}
+38: {
+article_id: "480c786948e53a47bb9b0cd734ea580e"
+title: "'Would be disaster if ... ': Donald Trump doubles down on tariffs after US court calls them illegal..."
+link: "https://timesofindia.indiatimes.com/business/international-business/would-be-disaster-if-donald-tru..."
+keywords: [
+0: "us federal court ruling"
+1: "donald trump"
+2: "donald trump tariffs"
+3: "stock market"
+4: "india business news"
+5: "us court trump tariffs"
+6: "financial news"
+7: "illegal tariffs"
+8: "trump tariffs news"
+9: "trade war"
+10: "trump tariffs"
+11: "us tariffs"
+12: "business news today"
+13: "business news"
+14: "us court ruling on trump tariffs"
+]
+creator: [
+0: "TOI World Desk"
+]
+description: "Donald Trump expressed his disagreement with a US federal court ruling that deemed his global tarif..."
+content: null
+pubDate: "2025-08-30 02:50:03"
+pubDateTZ: "UTC"
+image_url: "https://static.toiimg.com/thumb/msid-123594429,width-1070,height-580,imgsize-1034019,resizemode-75,..."
+video_url: null
+source_id: "toi"
+source_name: "The Times Of India"
+source_priority: 2178
+source_url: "https://timesofindia.indiatimes.com"
+source_icon: "https://n.bytvi.com/toi.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.08
+neutral: 0.13
+negative: 99.79
+}
+ai_tag: [
+0: "government"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: null
+ai_summary: "US President Donald Trump disagreed with a federal court ruling declaring his global tariffs 'illeg..."
+ai_content: "In a defiant stance following a recent legal setback, U.S. President Donald Trump has doubled down ..."
+duplicate: false
+}
+39: {
+article_id: "2a7e32c037bedffc56b0c54a60322707"
+title: "Is Mark Zuckerberg The One Behind Donald Trump's New Tariff Threat To Nations?"
+link: "https://www.timesnownews.com/world/us/us-news/is-mark-zuckerberg-the-one-behind-donald-trumps-new-t..."
+keywords: [
+0: "times now"
+1: "canada"
+2: "digital markets regulations"
+3: "us news"
+4: "europe"
+5: "mark zuckerberg"
+6: "favour for this ahead of"
+7: "asia"
+8: "european union"
+9: "donald trump"
+10: "bloomberg"
+11: "meta"
+12: "american technology"
+13: "united states"
+14: "china"
+15: "amazon"
+16: "mark zuckerberg seeks"
+17: "alphabet inc."
+18: "white house"
+19: "zuckerberg"
+20: "digital taxes?digital"
+21: "american tech companies"
+22: "digital services legislation"
+23: "digital taxes"
+24: "truth social"
+25: "washington"
+26: "amazon.com inc."
+27: "trump"
+28: "google"
+]
+creator: [
+0: "Ananya Varma"
+]
+description: "President Trump has issued a warning regarding potential tariffs on countries imposing digital taxe..."
+content: "In his latest warning, US President Donald Trump threatened a substantial tariff on countries that ..."
+pubDate: "2025-08-30 02:46:19"
+pubDateTZ: "UTC"
+image_url: "https://images.timesnownews.com/thumb/msid-152558474,imgsize-384495,width-1280,height-720/152558474..."
+video_url: null
+source_id: "timesnownews"
+source_name: "Times Now News"
+source_priority: 2243
+source_url: "https://www.timesnownews.com"
+source_icon: "https://n.bytvi.com/timesnownews.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.1
+neutral: 0.09
+negative: 99.81
+}
+ai_tag: [
+0: "government"
+]
+ai_region: null
+ai_org: null
+ai_summary: "US President Donald Trump announced threats of significant tariffs on countries implementing digita..."
+ai_content: "In a recent development stirring international commerce tensions, President Donald Trump declared a..."
+duplicate: false
+}
+40: {
+article_id: "cba380a8cfa8de0163ad2deb8d147be4"
+title: "US Court Rules Many Of Trump's Tariffs ‘Illegal’, But They Will Still Be In Effect; Here's Why"
+link: "https://www.news18.com/world/us-court-rules-many-of-trumps-tariffs-illegal-but-they-will-still-be-i..."
+keywords: [
+0: "latest"
+]
+creator: [
+0: "Ashesh Mallick"
+]
+description: "US court struck down most of Trump's tariffs as illegal, ruling that the President overstepped his ..."
+content: "US court struck down most of Trump's tariffs as illegal, ruling that the President overstepped his ..."
+pubDate: "2025-08-30 02:33:42"
+pubDateTZ: "UTC"
+image_url: "https://images.news18.com/ibnlive/uploads/2025/08/Trump-tariffs-4-2025-08-f6672d9f53b7f4027170cad03..."
+video_url: null
+source_id: "news18"
+source_name: "News 18"
+source_priority: 1063
+source_url: "https://www.news18.com"
+source_icon: "https://n.bytvi.com/news18.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.11
+neutral: 0.13
+negative: 99.77
+}
+ai_tag: [
+0: "politics"
+]
+ai_region: [
+0: "united states of america,north america"
+]
+ai_org: [
+0: "us court"
+1: "trump"
+]
+ai_summary: "A US appeals court found many of former President Trump's tariffs 'illegal' due to misuse of emerge..."
+ai_content: "In a landmark decision, the United States Court of Appeals for the Federal Circuit in Washington D...."
+duplicate: false
+}
+41: {
+article_id: "2252b8a18057c4493e0696e31b0ed1ce"
+title: "What happens to Trump's tariffs now that a federal appeals court has knocked them down?"
+link: "https://www.wmur.com/article/what-happens-to-trumps-tariffs-after-appeals-court-ruling/65936757"
+keywords: [
+0: "economy"
+1: "sweeping taxis"
+2: "tariff"
+3: "trump tariffs"
+4: "money"
+5: "u. s. border"
+6: "donald trump tariffs"
+7: "trump administration"
+8: "trade deficit"
+9: "trade court decision"
+10: "federal appeals court ruling"
+11: "court"
+12: "country"
+13: "president"
+14: "liberation day tariffs"
+15: "trump trade policies"
+16: "business"
+17: "international emergency economic powers act"
+18: "united states"
+19: "trump national emergency tariffs"
+20: "tariff revenue $159 billion"
+21: "trade"
+22: "administration time"
+23: "tariff refunds risk"
+24: "donald trump"
+25: "reciprocal tariffs"
+26: "trump"
+27: "explainer"
+28: "authority"
+29: "tariffs"
+30: "u.s. trade deficit"
+31: "trump import taxes"
+32: "international"
+33: "china"
+34: "tariffs on canada mexico china"
+35: "appeal court ruling"
+36: "trump supreme court appeal"
+37: "decision center"
+38: "jsnd"
+39: "politics"
+40: "law"
+]
+creator: [
+0: "PAUL WISEMAN and LINDSAY WHITEHURST"
+]
+description: "President Donald Trump has audaciously claimed virtually unlimited power to bypass Congress and imp..."
+content: "President Donald Trump has audaciously claimed virtually unlimited power to bypass Congress and imp..."
+pubDate: "2025-08-30 02:31:00"
+pubDateTZ: "UTC"
+image_url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2231432670-68b25e1f6..."
+video_url: null
+source_id: "wmur"
+source_name: "Wmur"
+source_priority: 4547
+source_url: "https://www.wmur.com"
+source_icon: "https://n.bytvi.com/wmur.png"
+language: "english"
+country: [
+0: "united states of america"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.13
+neutral: 0.09
+negative: 99.78
+}
+ai_tag: [
+0: "government"
+]
+ai_region: null
+ai_org: [
+0: "trump"
+]
+ai_summary: "A federal appeals court has partially overturned President Trump's broad use of executive authority..."
+ai_content: "In a significant legal development, the U.S. Court of Appeals for the Federal Circuit has issued a ..."
+duplicate: true
+}
+42: {
+article_id: "0154a31e84e8c283b82aa6b4e0b04518"
+title: "What happens to Trump's tariffs now that a federal appeals court has knocked them down?"
+link: "https://www.kcra.com/article/what-happens-to-trumps-tariffs-after-appeals-court-ruling/65936757"
+keywords: [
+0: "international emergency economic powers act"
+1: "liberation day tariffs"
+2: "tariff refunds risk"
+3: "trump import taxes"
+4: "trade court decision"
+5: "trade"
+6: "tariff revenue $159 billion"
+7: "u.s. trade deficit"
+8: "economy"
+9: "trade deficit"
+10: "money"
+11: "tariffs on canada mexico china"
+12: "donald trump"
+13: "explainer"
+14: "united states"
+15: "u. s. border"
+16: "china"
+17: "tariff"
+18: "trump administration"
+19: "business"
+20: "international"
+21: "president"
+22: "politics"
+23: "trump supreme court appeal"
+24: "country"
+25: "sweeping taxis"
+26: "federal appeals court ruling"
+27: "trump tariffs"
+28: "decision center"
+29: "donald trump tariffs"
+30: "trump"
+31: "law"
+32: "tariffs"
+33: "court"
+34: "appeal court ruling"
+35: "trump national emergency tariffs"
+36: "jsnd"
+37: "administration time"
+38: "authority"
+39: "trump trade policies"
+40: "reciprocal tariffs"
+]
+creator: [
+0: "PAUL WISEMAN and LINDSAY WHITEHURST"
+]
+description: "President Donald Trump has audaciously claimed virtually unlimited power to bypass Congress and imp..."
+content: "WASHINGTON — President Donald Trump has audaciously claimed virtually unlimited power to bypass Con..."
+pubDate: "2025-08-30 02:31:00"
+pubDateTZ: "UTC"
+image_url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2231432670-68b25e1f6..."
+video_url: null
+source_id: "kcra"
+source_name: "Kcra"
+source_priority: 2967
+source_url: "https://www.kcra.com"
+source_icon: "https://n.bytvi.com/kcra.png"
+language: "english"
+country: [
+0: "united states of america"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.13
+neutral: 0.09
+negative: 99.78
+}
+ai_tag: [
+0: "government"
+]
+ai_region: null
+ai_org: [
+0: "trump"
+]
+ai_summary: "A federal appeals court has partially overturned President Trump's broad use of executive authority..."
+ai_content: "In a significant legal development, the U.S. Court of Appeals for the Federal Circuit has issued a ..."
+duplicate: true
+}
+43: {
+article_id: "d17cb3573ab9272a05bbc1cc6a0e75b2"
+title: "米控訴裁、「トランプ関税」を違法と判断 下級審に続き(BBC News)"
+link: "https://news.yahoo.co.jp/articles/e0878e4a6772ecafd06c9342c21fb900fc7bfbce"
+keywords: null
+creator: [
+0: "BBC News"
+]
+description: "マックス・マッツア記者(BBCニュース)、アンソニー・ザーカー北米特派員アメリカの連邦控訴裁判所は29日、ドナルド・トランプ大統領による関税措置の大半について、違法との判断を示した。トランフ..."
+content: "8/30(土) 11:31 配信 米控訴裁、「トランプ関税」を違法と判断 下級審に続き マックス・マッツア記者(BBCニュース)、アンソニー・ザーカー北米特派員アメリカの連邦控訴裁判所は29日、..."
+pubDate: "2025-08-30 02:31:00"
+pubDateTZ: "UTC"
+image_url: "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250830-16059301-bbc-000-1-view.jpg?exp=10800"
+video_url: null
+source_id: "yahoo_jp"
+source_name: "Yahoo Japan"
+source_priority: 449
+source_url: "https://news.yahoo.co.jp"
+source_icon: "https://n.bytvi.com/yahoo_jp.png"
+language: "japanese"
+country: [
+0: "japan"
+]
+category: [
+0: "world"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.18
+neutral: 99.63
+negative: 0.19
+}
+ai_tag: [
+0: "entertainment"
+1: "television"
+]
+ai_region: null
+ai_org: null
+ai_summary: null
+ai_content: null
+duplicate: false
+}
+44: {
+article_id: "820dc77d999a2cc6e6daada85a879494"
+title: "What happens to Trump's tariffs now that a federal appeals court has knocked them down?"
+link: "https://www.wcvb.com/article/what-happens-to-trumps-tariffs-after-appeals-court-ruling/65936757"
+keywords: [
+0: "politics"
+1: "jsnd"
+2: "u.s. trade deficit"
+3: "tariff refunds risk"
+4: "china"
+5: "u. s. border"
+6: "law"
+7: "tariffs on canada mexico china"
+8: "trump national emergency tariffs"
+9: "authority"
+10: "trump import taxes"
+11: "federal appeals court ruling"
+12: "trump"
+13: "trump supreme court appeal"
+14: "money"
+15: "international"
+16: "tariff"
+17: "tariffs"
+18: "international emergency economic powers act"
+19: "trump administration"
+20: "decision center"
+21: "sweeping taxis"
+22: "trade deficit"
+23: "trump tariffs"
+24: "trump trade policies"
+25: "donald trump tariffs"
+26: "liberation day tariffs"
+27: "president"
+28: "trade"
+29: "explainer"
+30: "court"
+31: "country"
+32: "united states"
+33: "reciprocal tariffs"
+34: "trade court decision"
+35: "donald trump"
+36: "appeal court ruling"
+37: "business"
+38: "economy"
+39: "administration time"
+40: "tariff revenue $159 billion"
+]
+creator: [
+0: "PAUL WISEMAN and LINDSAY WHITEHURST"
+]
+description: "President Donald Trump has audaciously claimed virtually unlimited power to bypass Congress and imp..."
+content: "President Donald Trump has audaciously claimed virtually unlimited power to bypass Congress and imp..."
+pubDate: "2025-08-30 02:31:00"
+pubDateTZ: "UTC"
+image_url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2231432670-68b25e1f6..."
+video_url: null
+source_id: "wcvb"
+source_name: "Wcvb"
+source_priority: 3669
+source_url: "https://www.wcvb.com"
+source_icon: "https://n.bytvi.com/wcvb.png"
+language: "english"
+country: [
+0: "united states of america"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.13
+neutral: 0.09
+negative: 99.78
+}
+ai_tag: [
+0: "government"
+]
+ai_region: null
+ai_org: [
+0: "trump"
+]
+ai_summary: "A federal appeals court has partially overturned President Trump's broad use of executive authority..."
+ai_content: "In a significant legal development, the U.S. Court of Appeals for the Federal Circuit has issued a ..."
+duplicate: true
+}
+45: {
+article_id: "75fe555e487626e3df1d8df379391676"
+title: "Trump Slams 'Highly Partisan' Ruling After Court Declares His Tariffs Illegal — Economists Say Deci..."
+link: "https://www.benzinga.com/markets/economic-data/25/08/47429232/trump-slams-highly-partisan-ruling-af..."
+keywords: [
+0: "benzinga"
+1: "news"
+2: "tariffs"
+3: "donald trump"
+4: "government"
+]
+creator: [
+0: "Ananya Gairola"
+]
+description: "A divided U.S. appeals court has ruled that most of President Donald Trump's tariffs are unconstitu..."
+content: "A divided U.S. appeals court has ruled that most of President Donald Trump's tariffs are unconstitu..."
+pubDate: "2025-08-30 02:30:51"
+pubDateTZ: "UTC"
+image_url: "https://cdn.benzinga.com/files/images/story/2025/08/29/Container-Tariffs-Word-On-Flag-Of-The-Un.jpe..."
+video_url: null
+source_id: "benzinga"
+source_name: "Benzinga"
+source_priority: 2050
+source_url: "https://www.benzinga.com"
+source_icon: "https://n.bytvi.com/benzinga.png"
+language: "english"
+country: [
+0: "united states of america"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "negative"
+sentiment_stats: {
+positive: 0.12
+neutral: 0.16
+negative: 99.72
+}
+ai_tag: [
+0: "politics"
+]
+ai_region: null
+ai_org: null
+ai_summary: "A U.S. appeals court ruled 7-4 that President Trump's tariffs were unconstitutional under the Inter..."
+ai_content: "President Donald Trump's recent imposition of tariffs faced legal challenges when a divided panel o..."
+duplicate: false
+}
+46: {
+article_id: "f9dedbf894d467f23aed0b440ea05714"
+title: "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 1 September 2025"
+link: "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stock..."
+keywords: [
+0: "stocks to buy"
+1: "stock ideas for next week"
+2: "sumeet bagadia"
+3: "buy or sell stocks"
+4: "nifty 50 outlook"
+5: "stocks to buy next week"
+6: "sumeet bagadia stock picks"
+7: "sumeet bagadia stock recommendations"
+8: "stocks to buy on monday"
+9: "stock picks for monday"
+10: "indian stock market"
+11: "short term stock picks"
+12: "stock market outlook"
+]
+creator: [
+0: "Saloni Goel"
+]
+description: "Sumeet Bagadia recommended looking at counters with a strong technical setup. Against this backdrop..."
+content: "Buy or sell stocks: Hurt by the imposition of higher tariffs by the US and foreign fund outflows, t..."
+pubDate: "2025-08-30 02:24:11"
+pubDateTZ: "UTC"
+image_url: "https://www.livemint.com/lm-img/img/2025/08/30/1600x900/Sumeet_Bagadia_Choice_Broking_1680942463906..."
+video_url: null
+source_id: "livemint"
+source_name: "Mint"
+source_priority: 7134
+source_url: "https://www.livemint.com"
+source_icon: "https://n.bytvi.com/livemint.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "business"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.19
+neutral: 99.72
+negative: 0.09
+}
+ai_tag: [
+0: "financial markets"
+]
+ai_region: [
+0: "bagadia"
+]
+ai_org: null
+ai_summary: "Sumeet Bagadia suggests buying Colgate, Dalmia Bharat, and Asian Paints due to their strong technic..."
+ai_content: "In light of recent challenges facing the Indian stock market, including heightened tariffs imposed ..."
+duplicate: false
+}
+47: {
+article_id: "e843a5c1cbe46e4473fc3de8ff3eec0e"
+title: "From 'Modi's war' to 'Kremlin's laundromat', invectives pile up"
+link: "https://timesofindia.indiatimes.com/world/us/from-modis-war-to-kremlins-laundromat-invectives-pile-..."
+keywords: [
+0: "peter navarro"
+1: "world news today"
+2: "world news live"
+3: "kremlin laundromat"
+4: "modi's war"
+5: "top news in us"
+6: "world news"
+7: "breaking news"
+8: "russia ukraine conflict"
+9: "us-india relations"
+]
+creator: [
+0: "Chidanand Rajghatta"
+]
+description: "From 'Modi's war' to 'Kremlin's laundromat', invectives pile up"
+content: "Peter Navarro, Lindsey Graham The TOI correspondent from Washington: Trump surrogates on Friday kep..."
+pubDate: "2025-08-30 02:08:33"
+pubDateTZ: "UTC"
+image_url: "https://static.toiimg.com/thumb/msid-123594369,imgsize-42520,width-400,resizemode-4/untitled-design..."
+video_url: null
+source_id: "toi"
+source_name: "The Times Of India"
+source_priority: 2178
+source_url: "https://timesofindia.indiatimes.com"
+source_icon: "https://n.bytvi.com/toi.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "politics"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.08
+neutral: 99.62
+negative: 0.3
+}
+ai_tag: [
+0: "conflicts & war"
+]
+ai_region: [
+0: "washington,united states of america,north america"
+1: "kremlin,montana,united states of america,north america"
+2: "kremlin,oklahoma,united states of america,north america"
+]
+ai_org: null
+ai_summary: "Trump administration officials criticized India's purchase of Russian goods amidst tensions between..."
+ai_content: "In recent days, top Trump administration officials have intensified their criticism of India's econ..."
+duplicate: false
+}
+48: {
+article_id: "b1be68cfff5af5cd3e1fea630cffe6dd"
+title: "iPhone 17 Pro Max to launch on 9 September: Price, display, camera and everything expected"
+link: "https://www.livemint.com/technology/gadgets/iphone-17-pro-max-to-launch-on-9-september-price-displa..."
+keywords: [
+0: "iphone 17 price"
+1: "iphone 17 pro colors"
+2: "iphone 17 pro price"
+3: "apple iphone 17"
+4: "iphone 17 pro max price"
+5: "apple"
+6: "iphone 17 colors"
+7: "apple iphone 17 pro max"
+8: "iphone 17 pro release date"
+9: "iphone 17 pro max release date"
+10: "iphone 17 release date"
+11: "iphone 16 pro"
+12: "apple iphone 17 pro"
+13: "17 pro max iphone"
+14: "17 pro max"
+]
+creator: [
+0: "Aman Gupta"
+]
+description: "iPhone 17 series will make its debut globally on 9 September. Let's take a look at the pricing, dis..."
+content: "Apple has confirmed that its biggest hardware launch of the year will be called “Awe Dropping” and ..."
+pubDate: "2025-08-30 02:04:59"
+pubDateTZ: "UTC"
+image_url: "https://www.livemint.com/lm-img/img/2025/08/30/1600x900/iPhone_17_Pro_1756519350366_1756519350559.j..."
+video_url: null
+source_id: "livemint"
+source_name: "Mint"
+source_priority: 7134
+source_url: "https://www.livemint.com"
+source_icon: "https://n.bytvi.com/livemint.png"
+language: "english"
+country: [
+0: "india"
+]
+category: [
+0: "technology"
+]
+sentiment: "positive"
+sentiment_stats: {
+positive: 84.41
+neutral: 15.04
+negative: 0.55
+}
+ai_tag: [
+0: "e-commerce"
+]
+ai_region: null
+ai_org: null
+ai_summary: "Apple's iPhone 17 Pro Max is set to launch worldwide on September 9, following Apple's 'Awe Droppin..."
+ai_content: "Apple Inc. is gearing up for what it calls its 'Awe Dropping' event, scheduled for September 9 at i..."
+duplicate: false
+}
+49: {
+article_id: "5946de2fd445eff47c34496deda7f4a9"
+title: "Today News Live: જ્યાં સુધી તે ફાયદો રહેશે, ત્યાં સુધી અમે રશિયા પાસેથી તેલ ખરીદીશું: ONGC ચેરમેન"
+link: "https://gujarati.indianexpress.com/news/today-latest-live-news-update-in-gujarati-30-august-2025-on..."
+keywords: [
+0: "ન્યૂઝ"
+]
+creator: [
+0: "Ankit Patel"
+]
+description: "Today Latest News Live Update in Gujarati 30 August 2025: ઓઇલ એન્ડ નેચરલ ગેસ કોર્પોરેશન (ONGC) ના ચ..."
+content: "Written by Ankit Patel Updated : August 30, 2025 08:54 IST Follow Us Facebook Twitter whatsapp Toda..."
+pubDate: "2025-08-30 02:02:37"
+pubDateTZ: "UTC"
+image_url: "https://images-gujarati.indianexpress.com/2025/08/ONGC.jpg"
+video_url: null
+source_id: "indianexpress"
+source_name: "The Indian Express"
+source_priority: 1386
+source_url: "https://indianexpress.com"
+source_icon: "https://n.bytvi.com/indianexpress.png"
+language: "gujarati"
+country: [
+0: "india"
+]
+category: [
+0: "top"
+1: "lifestyle"
+]
+sentiment: "neutral"
+sentiment_stats: {
+positive: 0.14
+neutral: 99.72
+negative: 0.14
+}
+ai_tag: [
+0: "awards and recognitions"
+]
+ai_region: [
+0: "russia,europe/asia"
+]
+ai_org: null
+ai_summary: null
+ai_content: null
+duplicate: false
+}
+]
+nextPage: "1756519357577362114"
+}
